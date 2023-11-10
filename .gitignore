@@ -1,5 +1,5 @@
 extra/
-'_pycache_'/
+/_pycache_/*
 .pytest_cache/
 .vscode/
 /tempCodeRunnerFile.py
