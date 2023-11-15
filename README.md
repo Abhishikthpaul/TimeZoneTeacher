@@ -1,7 +1,7 @@
 # TIME ZONE TEACHER
 #### Video Demo:  <URL HERE>
 #### Description: 
-Teaches you time zones of various countries through quizzes
+Teaches you time zones of various countries through quiz
 
 
 ## Table of Contents
@@ -45,7 +45,7 @@ Teaches you time zones of various countries through quizzes
 ## Setup and Usage
 Install the required packages using `pip install requirements.txt`
 
-Run the program using `python project.py`
+Run the program by **cd**-ing into the directory and typing `python project.py`
 
 
 ## Make-up of Program
@@ -75,7 +75,7 @@ There are three main files pertaining to the program-
 ## Contact
 Created by Abhishikth Paul - abhishikthpaul@gmail.com
 
-Project link: <!--FILL HERE..  -->
+Project link: https://github.com/Abhishikthpaul/TimeZoneTeacher.git
 
 
 <!-- ## License -->
